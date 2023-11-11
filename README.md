@@ -1,2 +1,2 @@
-# ScalaChat
+# ScalaChatPrepare
 Test "Kvartplata 24"
